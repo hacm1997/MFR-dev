@@ -1,0 +1,67 @@
+.content {
+    order: 1;
+    flex: 0 50%;
+}
+
+.info_habitacion i {
+    font-size: 65px;
+    color: #8C15E4;
+}
+
+.info_habitacion {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.info_habitacion .descripcion {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.show_more{
+    margin-top: -40px;
+    color: #8c15e4 !important;
+    font-weight: 600;
+}
+
+.hr {
+    border-top: 1px solid #8C15E4;
+    opacity: 1;
+}
+
+.title_caracteristicas h2 {
+    font-size: 17px;
+    color: #0B0C44;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.caracteristicas_habitacion {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(150px, 220px));
+
+}
+
+.caracteristicas_habitacion p {
+    font-size: 17px;
+    color: #0B0C44;
+    display: flex;
+    gap: 10px;
+}
+
+.caracteristicas_habitacion img {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+/*RESPONSIVE*/
+@media (max-width: 888px) {
+    .content{
+        padding: 10px;
+    }
+    .content p{
+        width: 100%;
+    }
+}

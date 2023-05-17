@@ -1,0 +1,8 @@
+{
+  "title": "Details of the reserve",
+  "name_apto": "Apartment name",
+  "price": "Price",
+  "consumer_name": "Name of the buyer",
+  "dni": "Identification card",
+  "button": "Pay with Epayco"
+}

@@ -1,0 +1,32 @@
+.section {
+    max-width: 1300px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.abrir {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.general_apartamentos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+}
+
+@media (max-width: 991px) {
+    .general_apartamentos {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 544px) {
+    .abrir {
+        flex-direction: column;
+        align-items: flex-end;
+    }
+}

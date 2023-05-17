@@ -1,0 +1,41 @@
+.btn_abrir {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    background-color: #8C15E4;
+    color: #fafafa;
+    font-weight: bolder;
+    font-size: 26px;
+    border: none;
+    width: 40px;
+    height: 40px;
+    transition: 1s;
+}
+
+.btn_abrir:hover {
+    background-color: #0B0C44;
+    transform: scale(1.1);
+}
+
+.botones {
+    display: flex;
+    gap: 10px;
+}
+
+.botones button {
+    border-radius: 100%;
+    width: 35px;
+    height: 35px;
+    background-color: #0B0C44;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    font-weight: 800;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.botones button:hover {
+    background-color: #8C15E4;
+}

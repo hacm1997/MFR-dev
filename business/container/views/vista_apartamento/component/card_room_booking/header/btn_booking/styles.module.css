@@ -1,0 +1,14 @@
+.btn_reservar {
+    width: 168px;
+    height: 52px;
+    background-color: #8C15E4;
+    color: #ffffff;
+    border-radius: 0;
+}
+@media (max-width: 888px) {
+    .btn_reservar {
+        width: 150px;
+        height: 44px;
+
+    }
+}

@@ -1,0 +1,6 @@
+@media (max-width: 450px) {
+    .title{
+        text-align: center;
+        padding: 20px;
+    }
+}

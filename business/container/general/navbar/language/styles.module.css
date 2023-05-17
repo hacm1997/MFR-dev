@@ -1,0 +1,24 @@
+.lenguaje_navbar {
+    width: 100px;
+    display: flex;
+    justify-content: flex-end;
+}
+.btn_nav {
+    color: #fafafa !important;
+}
+
+.btn_nav:active {
+    color: #fafafa;
+}
+.btn_nav:hover {
+    color: #fafafa;
+}
+
+/*RESPONSIVE*/
+@media (max-width: 991px) {
+    .lenguaje_navbar {
+        width: 100px;
+        display: flex;
+        justify-content: flex-end;
+    }
+}

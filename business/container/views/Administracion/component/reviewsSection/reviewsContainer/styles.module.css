@@ -1,0 +1,17 @@
+.card_general{
+    width: 1000px;
+
+}
+
+@media (max-width: 1199px) {
+    .card_general{
+        width: 650px;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .card_general{
+        width: 317px;
+    }
+}

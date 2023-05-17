@@ -1,0 +1,31 @@
+{
+  "summary": "Resumen de la transacción",
+  "reference": "Referencia",
+  "facture": "Id Factura",
+  "date": "Fecha y hora",
+  "commerce": "Nombre del comercio",
+  "product": "Nombre del producto",
+  "total": "Total",
+  "currency": "Moneda usada",
+  "method": "Método de pago",
+  "status": "Estado de transacción",
+  "list_status": {
+    "accept": "Aceptada",
+    "pending": "Pendiente",
+    "fail": "Fallida",
+    "rejected": "Rechazada"
+  },
+  "download": "Descargar factura",
+  "msn_info": "Si no logra ver los datos por favor recargue la página o haga clic en el siguiente botón:",
+  "reload": "Recargar",
+  "alert1": "¿Está seguro de terminar la transacción?",
+  "alert1_1": "Si lo hace, no podrá reanudar la compra y deberá realizar todo el proceso nuevamente.",
+  "bnt_again": "Reintentar",
+  "btn_end": "Finalizar",
+  "finish": "Terminar y salir",
+  "sweet_alert": {
+    "error": {
+      "again": "Reintentar"
+    }
+  }
+}

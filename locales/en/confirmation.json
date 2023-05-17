@@ -1,0 +1,31 @@
+{
+  "summary": "Transaction Summary",
+  "reference": "Reference",
+  "facture": "Facture id",
+  "date": "Date and Time",
+  "commerce": "Trade name",
+  "product": "Product name",
+  "total": "Total",
+  "currency": "Used currency",
+  "method": "Payment method",
+  "status": "Transaction status",
+  "list_status": {
+    "accept": "Accept",
+    "pending": "Pending",
+    "fail": "Failed",
+    "rejected": "Rejected"
+  },
+  "download": "Download invoice",
+  "msn_info": "If you cannot see the data, please refresh the page or click on the following button:",
+  "reload": "Reload",
+  "alert1": "Are you sure to finish the transaction?",
+  "alert1_1": "If you do, you will not be able to resume the purchase and will have to go through the entire process again.",
+  "bnt_again": "Retry",
+  "btn_end": "Finish",
+  "finish": "Finish and leave",
+  "sweet_alert": {
+    "error": {
+      "again": "Retry"
+    }
+  }
+}

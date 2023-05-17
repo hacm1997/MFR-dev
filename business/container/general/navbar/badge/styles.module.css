@@ -1,0 +1,10 @@
+.logo_mfr {
+    z-index: 999;
+    position: absolute;
+    height: auto !important;
+    margin-top: -19px;
+    top: 0;
+    border-radius: 0 0 11px 11px;
+    box-shadow: 0 0 10px rgb(0 0 0 / 13%);
+    cursor: pointer;
+}

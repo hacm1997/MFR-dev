@@ -1,0 +1,31 @@
+.grid_container {
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.grid_item {
+    padding: 15px;
+}
+
+.list_booking p{
+    color: black;
+
+}
+.editBtn{
+    color: #0070f3;
+    cursor: pointer;
+}
+
+.success{
+    color: green !important;
+    font-weight: bold;
+}
+.cancel{
+    color: red !important;
+    font-weight: bold;
+}
+
+.modal_body2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

@@ -1,0 +1,111 @@
+.menuLeftGeneral {
+    background-color: #0B0C44;
+    height: 100%;
+    width: 80px;
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    transition: 0.5s;
+}
+
+.menuLeftGeneralActive {
+    background-color: #0B0C44;
+    height: 100%;
+    width: 240px;
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    transition: 0.5s;
+}
+
+.logo a {
+    display: flex;
+    align-items: center;
+    width: 45px;
+    height: 45px;
+    object-fit: contain;
+    gap: 10px;
+}
+
+.logo span {
+    font-weight: bold;
+    font-size: 26px;
+    letter-spacing: 10px;
+}
+
+.title {
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 500;
+    transition: 0.5s;
+}
+
+
+.menuLeftGeneralActive span {
+    transition: 0.5s;
+    opacity: 1;
+}
+
+.menuLeftGeneral span {
+    transition: 0.5s;
+    opacity: 0;
+}
+
+
+.menu {
+    position: absolute;
+    top: 130px;
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
+    padding: 0;
+    color: #FFFFFF !important;
+}
+
+.go_to {
+    position: absolute;
+    bottom: 25px;
+    color: #FFFFFF !important;
+}
+
+.hr {
+    position: relative;
+    top: 18px;
+    width: 100%;
+    border-top: 1px solid;
+    color: #8c15e4;
+    opacity: 1;
+}
+
+.abrir {
+    position: absolute;
+    top: 80px;
+    right: -12px;
+    font-size: 30px;
+    color: #8C15E4;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.abrir i {
+    font-size: 40px;
+}
+
+.abrir:hover {
+    color: #b748ff;
+}
+
+@media (max-width: 767px) {
+    .menuLeftGeneral {
+        position: fixed;
+    }
+
+    .menuLeftGeneralActive {
+        position: fixed;
+    }
+}

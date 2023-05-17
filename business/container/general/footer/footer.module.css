@@ -1,0 +1,47 @@
+.footer {
+    text-align: left;
+    background-color: #100146 !important;
+    padding-top: 80px;
+}
+
+.kru {
+    color: #fd9f02;
+    font-weight: 800;
+    text-decoration: none;
+    animation-name: kru;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+.contenido {
+    width: 85%;
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.desarrollado {
+    color: #ffffff;
+}
+
+@keyframes kru {
+    0% {
+        color: #fd9f02;
+    }
+    50% {
+        color: #ffffff;
+    }
+    100% {
+        color: #fd9f02;
+    }
+}
+
+.kru:hover {
+    color: #032f48;
+}
+
+@media (max-width: 991px) {
+    .contentFooter {
+        width: 100%;
+    }
+}
+

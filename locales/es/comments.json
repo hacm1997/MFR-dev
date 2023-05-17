@@ -1,0 +1,507 @@
+{
+  "review": "Reseñas",
+  "general": {
+    "title": "Ellos nos prefieren",
+    "description": "Siéntete cómodo en Cartagena, contamos con los mejores espacios y cuidamos cada detalle para que disfrutes de tu hospedaje. Con Inmobiliaria MFR podrás disfrutar apartamentos en arriendo en la zona norte de la ciudad.",
+    "list": [
+      {
+        "name": "John F",
+        "comment": "Todo estuvo muy bien, tal cual en las fotos, la limpieza excelente y las solicitudes que se hicieron todas fueron atendidas!!! Recomendado el apartamento, el lugar seguro y lo mejor con ingreso directo a la playa."
+      },
+      {
+        "name": "Daniel",
+        "comment": "Excelente lugar para quedarse. Además de estar muy buen ubicado el apartamento está perfectamente adecuado. Muy cómodo, todo limpio y la atención por parte del anfitrión muy buena. Recomendado!"
+      },
+      {
+        "name": "Jenny",
+        "comment": "Es un sitio para compartir en familia, descansar, disfrutar de la vista, de la playa , las zonas húmedas, el gym y la piscina."
+      },
+      {
+        "name": "Diego Julian",
+        "comment": "Excelente lugar, un apartamento muy cómodo, amplio, bien dotado, limpio, instalaciones del edificio excelente, gimnasio, piscinas, seguridad 24 horas y salida al mar, además de supermercados, droguerías y restaurantes cerca , muy recomendado."
+      }
+    ]
+  },
+  "details": [
+    {
+      "codeApto": "MFRMorros3Apto220",
+      "items": [
+        {
+          "name": "Diego Julian",
+          "comment": "Excelente lugar, un apartamento muy cómodo, amplio, bien dotado, limpio, instalaciones del edificio excelente, gimnasio, piscinas, seguridad 24 horas y salida al mar, además de supermercados, droguerías y restaurantes cerca , muy recomendado."
+        },
+        {
+          "name": "Yoni",
+          "comment": "Excellent apartment, beautiful sight, the pool of my dreams and kid’s dream as well. Amazing location everything is close by!"
+        },
+        {
+          "name": "Erick",
+          "comment": "This place has a great location, nice view washer and dryer which is great. Host let me do a really late check out without any extra fees. Very attentive and responsive. Always willing to help.\n"
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorros3Apto307",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorros3Apto405",
+      "items": [
+        {
+          "name": "Alejo",
+          "comment": "El apartamento de mafe cumple todas las condiciones para descansar, igual a las fotos y la ubicación inmejorable."
+        },
+        {
+          "name": "Michell",
+          "comment": "El apartamento es tal cual se muestra en las fotos. Cuenta con todo lo necesario para tener una estadía amena. La piscina del edificio y el acceso a la playa son perfectos. Mafe es una excelente anfitriona, estuvo muy pendiente de todo lo que necesitamos durante nuestra estadía. Sin duda volvería a hospedarme en este apto."
+        },
+        {
+          "name": "Camilo",
+          "comment": "Great place and location! Everything was an easy process to check in. Really comfortable!."
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorros3Apto419",
+      "items": [
+        {
+          "name": "Luz",
+          "comment": "Excelente lugar, con todas las comodidades, muy limpio y lindo, recomendado ampliamente, Mafe muy atenta, gracias!."
+        },
+        {
+          "name": "Lady",
+          "comment": "Muy recomendado el apartamento, Mafe muy buena anfitriona."
+        },
+        {
+          "name": "Andrés",
+          "comment": "Muy cómodo apartamento al frente del mar, excelente seguridad en el condominio atención 1a. muy buen aseo excelentes zonas comunes."
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorros3Apto423",
+      "items": [
+        {
+          "name": "Vicmar",
+          "comment": "Siempre que pueda es mi sitio preferido para alojarme en Cartagena!!!"
+        },
+        {
+          "name": "Juliana",
+          "comment": "Mafe estuvo muy pendiente de nuestra llegada y todo fue excelente. Volvería y lo recomendaría siempre."
+        },
+        {
+          "name": "Libardo",
+          "comment": "Excelente, amplio, muy bien ubicado, muy cómodo. Lo recomendamos."
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorros3Apto513",
+      "items": [
+        {
+          "name": "Henry",
+          "comment": "Apto muy bonito y muy bien ubicado."
+        },
+        {
+          "name": "Moritz",
+          "comment": "Super lindo apartamento, super bien comunicación, muy limpio y bien equipado."
+        },
+        {
+          "name": "Felipe",
+          "comment": "Excelente apartamento."
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorros3Apto514",
+      "items": [
+        {
+          "name": "Evan",
+          "comment": "A great place in great location with a great host! You will have a great time if you book with Mafe! Note: apartment next to mafes unit was being worked on. The noise was noticeable during the day but didn’t effect my trip much. All in all great stay!."
+        },
+        {
+          "name": "Christian",
+          "comment": "Muy buen espacio."
+        },
+        {
+          "name": "Luzma",
+          "comment": "Me sentí muy cómoda y con todo lo necesario. Me encanto el lugar, las piscinas, con acceso directo al mar. Muy tranquilo!!."
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorros3Apto609",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorros3Apto613",
+      "items": [
+        {
+          "name": "Fernando José",
+          "comment": "Excelente atención... todo es tal cual como se muestra en la descripción, tiene agua caliente (cosa que no se encuentra en otro lugares), el edificio perfecto, salida rápida a la playa (literalmente es el patio), excelente piscina. En fin todo perfecto."
+        },
+        {
+          "name": "Jesus",
+          "comment": "El departamento de Mafe es increíble! super buena ubicación y en calidad precio vale totalmente la pena. La comunicación y atención fue buena desde el inicio y aunque solo nos quedamos una noche a descansar todo estuvo impecable!."
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorros3Apto703",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorros3Apto710",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorros3Apto718",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorros3Apto719",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorrosEpicApto302",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorrosEpicApto307",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorrosEpicApto404",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorrosEpicApto507",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorrosEpicApto624",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorrosEpicApto706",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorrosEpicApto709",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorrosEpicApto712",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorros922Apto415",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorros922Apto424",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorrosVitriApto611",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorrosUltraApto409",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorrosUltraApto513",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "codeApto": "MFRMorrosUltraApto711",
+      "items": [
+        {
+          "name": "Sergio",
+          "comment": "Sitio excelente, ubicación inigualable."
+        },
+        {
+          "name": "Jorge",
+          "comment": "Excelente lugar, limpio, excelente ubicación, excelente servicio y comunicación"
+        },
+        {
+          "name": "Lilia",
+          "comment": "El lugar es muy acogedor, buena ubicación, muy buen aseo y buena comunicación con Mafe. Recomendado, de seguro volveremos."
+        },
+        {
+          "name": "Raquel",
+          "comment": "Nice apartment, very comfortable"
+        }
+      ]
+    },
+    {
+      "codeApto": "SonestaApto902",
+      "items": [
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        },
+        {
+          "name": "",
+          "comment": ""
+        }
+      ]
+    }
+  ]
+}

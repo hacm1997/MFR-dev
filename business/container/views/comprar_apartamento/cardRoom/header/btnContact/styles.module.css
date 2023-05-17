@@ -1,0 +1,41 @@
+.boton .btn_reservar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 60px;
+    background-color: #8C15E4;
+    border: none;
+    color: #ffffff !important;
+    font-weight: bold;
+}
+
+
+@media (max-width: 700px) {
+    .boton .btn_reservar {
+        width: 150px !important;
+    }
+}
+
+@media (max-width: 636px) {
+    .boton .btn_reservar {
+        width: 140px !important;
+        height: 50px !important;
+    }
+}
+
+@media (max-width: 581px) {
+    .boton .btn_reservar {
+        width: 150px;
+        height: 45px;
+    }
+}
+
+
+@media (max-width: 500px) {
+
+    .boton .btn_reservar {
+        width: 120px !important;
+        height: 40px !important;
+    }
+}

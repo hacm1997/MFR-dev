@@ -1,0 +1,57 @@
+{
+  "title": "Inmobiliaria MFR | Somos comodidad, tranquilidad y seguridad",
+  "keywords": "arriendo en apartamentos,casa en arriendo,inmobiliaria,bogota arriendo apartamento,bogota arriendo apartamentos,apartaestudio,aparta estudio bogota arriendo,aparta mentos,apartamentos arriendo,arriendo casas,cartagena d eindias,cartagena de indios,cartagena de la india,cartagena de las indias,india de cartagena,finca a raiz,finca raiz en bogota,inmobiliaria bogota,cartagena arriendo,cartagena inmobiliarias,agencia de arrendamiento,agencia de arrendamiento medellin,arrendamiento colombia,arrendamiento del norte,arrendamientos inmobiliaria,arrendar casa medellin,arriendo apartamento cartagena,arriendo cartagena,cali inmobiliaria,colombia inmobiliaria,finca raiz en colombia,fincaraiz colombia,inmobiliaria armenia,inmobiliaria barranquilla,inmobiliaria bucaramanga,inmobiliaria cali,inmobiliaria en santa marta,inmobiliarias cartagena,inmobiliarias en medellin,la castellana arrendamientos,propiedad raiz,venta cas,alquilar apartamento cartagena,alquilar apartamentos en cartagena,alquilar casas,alquiler apartamento,alquiler casa,alquiler de apartamento cartagena,apartamento arriendo cartagena,apartamento cartagena venta,apartamentos cartagena,apartamentos de alquiler cartagena,apartamentos en cartagena por dias,arriendo aptos,cartagena apartamento,cartagena arriendo apartamentos,cartagena casa,cartagena venta apartamentos,casa alquiler,casa cartagena,casa cartagena venta,venta casas,cartagena inmobiliarias",
+  "nav": [
+    {
+      "name": "Hospedaje",
+      "link": "/",
+      "title": "Hospedaje"
+    },
+    {
+      "name": "Compra",
+      "link": "/comprar",
+      "title": "Compra"
+    },
+    {
+      "name": "Administración",
+      "link": "/administracion",
+      "title": "Administración"
+    }
+  ],
+  "footer": {
+    "about": {
+      "title": "Sobre nosotros",
+      "description": "Con Inmobiliaria MFR descubrirás la disponibilidad de un arriendo en Cartagena en el momento oportuno para suplir tu necesidades e integrar paisajes y limpieza en tus mejores momentos. Cada uno de nuestros apartamentos cuentan espacios cómodos, tranquilos y seguros."
+    },
+    "contact": {
+      "title": "Contacto",
+
+      "address2": "Cartagena, Colombia",
+      "schedule_name": "Horario de atención",
+      "schedule_hours": "8:00 am a 6:00 pm"
+    },
+    "social": {
+      "title": "Redes sociales",
+      "items": [
+        {
+          "title": "Instagram",
+          "link": "https://www.instagram.com/inmobiliariamfr/?hl=es",
+          "icon": "bx bxl-instagram"
+        },
+        {
+          "title": "Facebook",
+          "link": "https://www.facebook.com/inmobiliaramfr",
+          "icon": "bx bxl-facebook"
+        },
+        {
+          "title": "tik-tok",
+          "link": "https://www.tiktok.com/@inmobiliariamfr?lang=es",
+          "icon": "bx bxl-tiktok"
+        }
+      ]
+    },
+    "develop": {
+      "text": "Desarrollado por"
+    }
+  }
+}

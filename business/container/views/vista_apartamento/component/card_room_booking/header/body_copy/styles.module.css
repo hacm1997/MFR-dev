@@ -1,0 +1,46 @@
+.content_1 {
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.descripcion .content {
+    display: flex;
+    gap: 30px;
+}
+
+.descripcion .content p {
+    display: flex;
+
+    gap: 5px;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.descripcion .content p span {
+    color: #8C15E4;
+}
+
+.descripcion .content a span {
+    color: #8C15E4;
+}
+
+/* RESPONSIVE */
+
+@media (max-width: 888px) {
+    .descripcion .content {
+        display: flex;
+        gap: 10px;
+    }
+    .descripcion .content p{
+        font-size: 12px;
+    }
+    .descripcion .content a{
+        font-size: 12px;
+    }
+}
+@media (max-width: 410px){
+    .content_1 {
+        justify-content: center;
+    }
+}

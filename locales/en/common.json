@@ -1,0 +1,57 @@
+{
+  "title": "Inmobiliaria MFR | We are comfort, tranquility and security",
+  "keywords": "rent in apartments, house for rent, real estate, bogota rent apartment, rent bogota apartments, apartaestudio, apart studio bogota rent, apartamentos, apartments for rent, rent houses, cartagena d eindias, cartagena de indios, cartagena de india, cartagena de las indias, india de cartagena, finca a raiz, real estate in bogota, real estate bogota, cartagena lease, cartagena real estate, leasing agency, leasing agency medellin, leasing colombia, leasing north, leasing real estate, rent house medellin, rent apartment cartagena , rent cartagena, cali real estate, colombia real estate, real estate in colombia, fincaraiz colombia, armenian real estate, barranquilla real estate, bucaramanga real estate, cali real estate, santa marta real estate, cartagena real estate, medellin real estate, la castellana leases, real estate, sale cas, rent cartagena apartment, rent apartments in cartagena, rent houses, rent apartment, rent house, rent apartment cartagena, apartment rent cartagena, apartment cartagena sale, apartments cartagena, rent apartments cartagena, apartments in cartagena for days, rental apts, cartagena apartment, cartagena apartments for rent, cartagena house, cartagena apartments for sale, house for rent, cartagena house, cartagena house for sale, houses for sale, cartagena real estate",
+  "nav": [
+    {
+      "name": "Lodging",
+      "link": "/",
+      "title": "Lodging"
+    },
+    {
+      "name": "Buy",
+      "link": "/comprar",
+      "title": "Buy"
+    },
+    {
+      "name": "Administration",
+      "link": "/administracion",
+      "title": "Administration"
+    }
+  ],
+  "footer": {
+    "about": {
+      "title": "About us",
+      "description": "With Inmobiliaria MFR you will discover the availability of a rental in Cartagena at the right time to meet your needs and integrate landscapes and cleaning at your best moments. Each of our apartments have comfortable, quiet and safe spaces."
+    },
+    "contact": {
+      "title": "Contact",
+      "address1": "29th Street #22-46 Corner",
+      "address2": "Cartagena, Colombia",
+      "schedule_name": "Office hours",
+      "schedule_hours": "9:00 am to 7:00 pm"
+    },
+    "social": {
+      "title": "Social networks",
+      "items": [
+        {
+          "title": "Instagram",
+          "link": "instagram.com",
+          "icon": "bx bxl-instagram"
+        },
+        {
+          "title": "Facebook",
+          "link": "facebook.com",
+          "icon": "bx bxl-facebook"
+        },
+        {
+          "title": "tik-tok",
+          "link": "tik-tok.com",
+          "icon": "bx bxl-tiktok"
+        }
+      ]
+    },
+    "develop": {
+      "text": "Developed by"
+    }
+  }
+}

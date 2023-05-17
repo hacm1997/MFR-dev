@@ -1,0 +1,15 @@
+.btn_buscar {
+    width: 135px;
+    color: #ffffff;
+    font-weight: bold;
+    background-color: #8C15E4;
+    border: none;
+    border-radius: 0;
+    height: 68px;
+}
+
+.btn_buscar:hover {
+    border: solid 1px #8C15E4;
+    color: #8C15E4;
+    background-color: #ffffff;
+}

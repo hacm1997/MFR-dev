@@ -1,0 +1,116 @@
+.fecha {
+    width: 100% !important;
+    height: 92px;
+    border: solid 2px #8C15E4 !important;
+
+}
+
+.sub_menu_persona {
+    position: relative;
+    border: solid 2px #8C15E4 !important;
+    bottom: -10px;
+    height: 90px;
+    padding: 10px 20px;
+    width: 100%;
+
+    z-index: 1;
+}
+
+.cantidad_personas h2 {
+    font-size: 17px;
+    color: #0B0C44;
+}
+
+.cantidad_personas p {
+    font-size: 17px;
+    color: #0B0C44;
+}
+
+.cantidad_personas {
+    height: 92px;
+    border: solid 2px #8C15E4 !important;
+    background-color: #ffffff;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    width: 100%;
+    cursor: pointer;
+
+}
+
+.cantidad_personas p {
+    position: relative;
+    top: 8px;
+
+}
+
+.content_range {
+    display: flex;
+    justify-content: space-between;
+}
+
+.adulto {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.ninos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.calculo {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.mas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border: solid 1px #8C15E4;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+    color: #8C15E4;
+}
+
+.neg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border: solid 1px #8C15E4;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+    color: #8C15E4;
+}
+
+.info_alert{
+    padding-top: 10px;
+    padding-bottom: 1px;
+    margin-top: 10px;
+    background-color: rgba(246, 241, 125, 0.76);
+    border: 1px solid #fae60a;
+}
+
+@media (max-width: 888px) {
+
+    .cantidad_personas h2 {
+        font-size: 14px;
+        color: #0B0C44;
+    }
+    .cantidad_personas p {
+        position: relative;
+        top: 5px;
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Detalles de la reserva",
+  "name_apto": "Nombre apartamento",
+  "price": "Precio",
+  "consumer_name": "Nombre comprador",
+  "dni": "Cédula",
+  "button": "Pagar con Epayco"
+}

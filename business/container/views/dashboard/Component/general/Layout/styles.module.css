@@ -1,0 +1,25 @@
+.main {
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    height: 100%;
+    background-color: #fafafa;
+}
+
+.general {
+    margin-top: 100px;
+    padding: 0 40px;
+    width: 100%;
+}
+
+@media (max-width: 767px) {
+    .general {
+        padding: 0 40px 0 120px;
+    }
+}
+
+@media (max-width: 600px) {
+    .general {
+        padding: 0 17px 0 93px;
+    }
+}

@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif !important;
+}
+img{
+  max-width: 100%;
+}
+
+a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.nav-link {
+  color: rgb(255 255 255) !important;
+}
+.form-check .form-check-input:checked{
+  background-color: #8C15E4 !important;
+  border-color: #8C15E4 !important;
+}
+
+.active>.page-link, .page-link.active {
+  color: var(--bs-pagination-active-color) !important;
+  background-color: #8c15e4 !important;
+  border: none !important;
+}
+
+.page-link{
+  color: #000000 !important;
+  font-weight: bold;
+  border: none !important;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #8C15E4;
+  -webkit-box-shadow: inset 0 0 6px #100146;
+  border-radius: 0;
+}
+
+.form-check-input {
+  border: 2px solid rgb(140 21 228) !important;
+}
+
+.styles_bodyModal__TvPPq .modal-content {
+  background-color: transparent !important;
+  border: 0px !important;
+}
+
+.styles_prevBtn__N8EWC{
+  color: #8C15E4 !important;
+  width: 45px;
+}
+

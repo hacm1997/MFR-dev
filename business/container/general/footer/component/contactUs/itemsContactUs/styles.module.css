@@ -1,0 +1,27 @@
+.icoCont {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.icoCont i {
+    font-size: 30px;
+    color: #8C15E4;
+    background-color: #fafafa;
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 1s;
+}
+
+.icoCont i:hover {
+    background-color: #8C15E4;
+    color: #fafafa;
+}
+
+.contenidoContacto {
+    color: #ffffff;
+    width: 200px;
+}

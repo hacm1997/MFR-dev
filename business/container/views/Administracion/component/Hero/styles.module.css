@@ -1,0 +1,36 @@
+.header_banner {
+    background-image: url("/images/administracion/inmobiliariaMFR-administracion.jpg");
+    background-size: cover;
+    height: 924px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+
+.apoyo_grafico {
+    position: absolute;
+    right: 0;
+    bottom: -27px;
+    transform: rotate(180deg);
+}
+
+@media (max-width: 1239px) {
+
+    .header_banner {
+        padding: 0 80px;
+    }
+}
+
+@media (max-width: 767px) {
+}
+
+@media (max-width: 665px) {
+
+    .header_banner {
+        height: 700px;
+    }
+}
+
+@media (max-width: 574px) {
+}

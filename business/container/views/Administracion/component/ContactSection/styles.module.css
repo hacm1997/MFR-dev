@@ -1,0 +1,15 @@
+.section {
+    height: 719px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+@media (max-width: 991px) {
+    .section{
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+
+}

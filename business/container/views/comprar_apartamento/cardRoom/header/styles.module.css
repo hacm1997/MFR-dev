@@ -1,0 +1,19 @@
+.info_apartamento{
+    display: flex;
+    justify-content: center;
+
+}
+.info_apartamento .content{
+    width: 100%;
+    max-width: 1400px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    padding: 0 40px;
+}
+
+@media (max-width: 1420px) {
+    .info_apartamento .content {
+        width: 100%;
+    }
+}

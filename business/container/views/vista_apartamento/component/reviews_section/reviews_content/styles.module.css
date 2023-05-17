@@ -1,0 +1,19 @@
+.card_testimonio{
+    max-width: 1233px;
+    width: 100%;
+
+    margin-top: 40px;
+}
+
+.testimonio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*RESPONSIVE*/
+@media (max-width: 890px) {
+    .card_testimonio{
+        width: 500px;
+    }
+}

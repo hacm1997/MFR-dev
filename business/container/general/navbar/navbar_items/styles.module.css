@@ -1,0 +1,10 @@
+.item_nav a:hover{
+    color: #8c15e4 !important;
+}
+.active a:hover{
+    color: #8c15e4 !important;
+}
+.active a{
+    border-bottom: 2.5px solid #8c15e4 !important;
+    width: fit-content !important;
+}

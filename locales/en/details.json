@@ -1,0 +1,107 @@
+{
+  "section1": {
+    "share": "Share",
+    "button": "Reserve",
+    "buttonContact": "Contact"
+  },
+  "gallery": {
+    "button": "See more photos"
+  },
+  "info": {
+    "capacity": "Maximum",
+    "people": "people",
+    "in_case": "in case of a child up to",
+    "year": "years old"
+  },
+  "amenities": {
+    "title": "In this apartment you will find",
+    "bedroom": "Bedroom",
+    "bed": "Beds",
+    "sofa_bed": "Sofa bed",
+    "bathrooms": "Bathrooms",
+    "wifi": "Wifi",
+    "view_sea": "Seaview",
+    "parking": "Parking",
+    "cooking": "Kitchen",
+    "pool": "Pool",
+    "access_beach": "Beach access",
+    "air": "Air-conditioning",
+    "washer": "Washer and dryer",
+    "tv": "Television",
+    "heater": "Water heater",
+    "jacuzzi": "Jacuzzi",
+    "gym": "Gym"
+  },
+  "form": {
+    "night": "night",
+    "guests": "Guests",
+    "adults": "Adults",
+    "description_adults": "from 13 years and older",
+    "kids": "Kids",
+    "description_kids": "from 3 to 12 years",
+    "adverting": "You cannot exceed the day limit",
+    "info_alert1": "You cannot select blackout dates within your selection range",
+    "info_alert2": "please only select available dates to continue"
+  },
+  "location": {
+    "title": "Here you will be located"
+  },
+  "extra_chars": {
+    "historic": "Close to the historic center",
+    "pets": "Pets Allowed",
+    "smoke": "No smoking",
+    "beach": "Beach access",
+    "h_entry": "Entry time",
+    "h_end": "Departure time",
+    "airport": "Close to the airport"
+  },
+  "form_submit": {
+    "name": "Full name",
+    "dni": "Identification number",
+    "phone": "Phone/Cell",
+    "email": "Email",
+    "arrival": "Arrival",
+    "exit": "Exit",
+    "guests": "Guests",
+    "adults": "Adults",
+    "kids": "Kids",
+    "comments": "Ddditional comments",
+    "validation": "Fill in all the fields",
+    "alert": {
+      "fixed": "Reservation and registered data",
+      "fixed_msn": "Click ok to continue or wait to be redirected",
+      "error": "Error - Failed to create reservation",
+      "error_msn": "Please try again or later"
+    }
+  },
+  "for_buy": {
+    "char_text": "Apartment features",
+    "switch": {
+      "photos": "Photos",
+      "blueprints": "Blueprints"
+    },
+    "amenities_text": "Building amenities",
+    "amenities": {
+      "view_sea": "Seaview",
+      "bathrooms": "Bathrooms",
+      "garage": "Garage",
+      "balcony": "Balcony",
+      "air": "Air-conditioning",
+      "elevator": "Elevator"
+    },
+    "form": {
+      "title": "Do you want this apartment?",
+      "description": "Send us your details and we will contact you",
+      "price": {
+        "text": "Current value",
+        "terms": "Terms and conditions apply"
+      },
+      "inputs": {
+        "name": "Name",
+        "phone": "Phone",
+        "email": "E-mail",
+        "button": "Send"
+      }
+    }
+  }
+}

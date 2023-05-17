@@ -1,0 +1,47 @@
+.ver_mas {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    background-color: #ffffff;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: 400;
+}
+
+.ver_mas:hover {
+    background-color: #8C15E4;
+    color: #ffffff;
+}
+
+.ver_mas span {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.ver_mas i {
+    color: #8C15E4;
+}
+
+.bodyModal{
+    background-color: transparent !important;
+}
+
+.btn_close{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.btn_close button{
+    background-color: transparent;
+    color: #FFFFFF;
+    width: 180px;
+    height: 40px;
+    border: 1px solid #FFFFFF;
+    transition: 1s;
+}
+.btn_close button:hover{
+    background-color: #0B0C44;
+    border-color: #12eaff;
+    transition: 1s;
+}

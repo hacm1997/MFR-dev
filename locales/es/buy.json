@@ -1,0 +1,37 @@
+{
+  "pageTitle": "Comprar apartamento",
+  "title": {
+    "pt1": "Tu nuevo",
+    "pt2": "apartamento",
+    "pt3": "te espera"
+  },
+  "subtitle": "Apartamentos disponibles",
+  "filter": {
+    "type_text": "Tipo de viaje",
+    "type1": "Trabajo",
+    "type2": "Vacaciones",
+    "adults": "Adultos",
+    "kids": "Niños",
+    "button": "Buscar"
+  },
+  "filter2": {
+    "title": "Filtrar",
+    "price": "Por precio",
+    "description": "Precio por noche",
+    "beds": "Camas",
+    "bedrooms": "Alcobas"
+  },
+  "aptos": {
+    "max": "Máximo",
+    "min": "Mínimo",
+    "people": "Personas",
+    "adults": "Adultos",
+    "kids": "Niños",
+    "bedroom": "Alcobas",
+    "sofa_bed": "Sofá cama",
+    "double_bed": "Cama doble",
+    "bathrooms": "Baños",
+    "night": "Noche",
+    "button": "Contactar"
+  }
+}

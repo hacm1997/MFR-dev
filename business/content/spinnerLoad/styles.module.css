@@ -1,0 +1,32 @@
+.content{
+    display: flex;
+    justify-content: center;
+}
+.principal{
+    position: absolute;
+    top: 35%;
+    left: 45%;
+}
+.loader {
+    border: 10px solid #f3f3f3;
+    border-top: 10px solid #0B0C44;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    animation: spin 1s linear infinite;
+}
+@keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+}
+@media (max-width: 500px) {
+  .content{
+    position: absolute;
+    top: 45%;
+    left: 40%;
+}
+}

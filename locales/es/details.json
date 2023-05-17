@@ -1,0 +1,107 @@
+{
+  "section1": {
+    "share": "Compartir",
+    "button": "Reservar",
+    "buttonContact": "Contáctar"
+  },
+  "gallery": {
+    "button": "Ver más fotos"
+  },
+  "info": {
+    "capacity": "Máximo",
+    "people": "personas",
+    "in_case": "en caso de un niño hasta",
+    "year": "años"
+  },
+  "amenities": {
+    "title": "En este apartamento encontrarás",
+    "bedroom": "Alcobas",
+    "bed": "Camas",
+    "sofa_bed": "Sofá cama",
+    "bathrooms": "Baños",
+    "wifi": "Wifi",
+    "view_sea": "Vista al mar",
+    "parking": "Parqueadero",
+    "cooking": "Cocina",
+    "pool": "Piscina",
+    "access_beach": "Acceso a la playa",
+    "air": "Aire acondicionado",
+    "washer": "Lavadora y secadora",
+    "tv": "Televisión",
+    "heater": "Calentador de agua",
+    "jacuzzi": "Jacuzzi",
+    "gym": "Gimnasio"
+  },
+  "form": {
+    "night": "noche",
+    "guests": "Huéspedes",
+    "adults": "Adultos",
+    "description_adults": "de 13 años en adelante",
+    "kids": "Niños",
+    "description_kids": "de 3 a 12 años",
+    "adverting": "No puede superar el límite de días",
+    "info_alert1": "No puede seleccionar fechas bloqueadas dentro de su rango de selección",
+    "info_alert2": "por favor solo seleccione fechas disponibles para continuar"
+  },
+  "location": {
+    "title": "Aquí estarás ubicado"
+  },
+  "extra_chars": {
+    "historic": "Cerca al centro histórico",
+    "pets": "Se admiten mascotas",
+    "smoke": "Prohibido fumar",
+    "beach": "Acceso a la playa",
+    "h_entry": "Hora de entrada",
+    "h_end": "Hora de salida",
+    "airport": "Cerca al aeropuerto"
+  },
+  "form_submit": {
+    "name": "Nombre completo",
+    "dni": "Cédula",
+    "phone": "Tel/Cel",
+    "email": "Correo electrónico",
+    "arrival": "Llegada",
+    "exit": "Salida",
+    "guests": "Huéspedes",
+    "adults": "Adultos",
+    "kids": "Niños",
+    "comments": "Comentario adicionales",
+    "validation": "Complete todos los campos",
+    "alert": {
+      "fixed": "Reserva y datos registrados",
+      "fixed_msn": "Pulse ok para continuar o espere ser redirigido",
+      "error": "Error - No se ha podido crear la reserva",
+      "error_msn": "Intentelo nuevamente o más tarde"
+    }
+  },
+  "for_buy": {
+    "char_text": "Características del apartamento",
+    "switch": {
+      "photos": "Fotos",
+      "blueprints": "Planos"
+    },
+    "amenities_text": "Amenidades del edificio",
+    "amenities": {
+      "view_sea": "Vista al mar",
+      "bathrooms": "Baños",
+      "garage": "Garaje",
+      "balcony": "Balcón",
+      "air": "Aire acondicionado",
+      "elevator": "Elevador"
+    },
+    "form": {
+      "title": "¿Quieres este apartamento?",
+      "description": "Déjanos tus datos y nos pondremos en contacto contigo",
+      "price": {
+        "text": "Valor actual",
+        "terms": "Aplican términos y condiciones"
+      },
+      "inputs": {
+        "name": "Nombre",
+        "phone": "Teléfono",
+        "email": "Correo electrónico",
+        "button": "Enviar"
+      }
+    }
+  }
+}

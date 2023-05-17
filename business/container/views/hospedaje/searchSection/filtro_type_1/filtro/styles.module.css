@@ -1,0 +1,230 @@
+.general {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 35px;
+}
+
+.tipo_viaje {
+    width: 200px;
+    border: solid 1px #8C15E4;
+    border-radius: 0;
+    color: #100146;
+    height: 68px;
+}
+
+.tipo_viaje {
+    border-color: #8C15E4 !important;
+    border-radius: 0;
+}
+
+.btn_buscar {
+    width: 135px;
+    color: #ffffff;
+    font-weight: bold;
+    background-color: #8C15E4;
+    border: none;
+    border-radius: 0;
+    height: 68px;
+}
+
+.btn_buscar:hover {
+    border: solid 1px #8C15E4;
+    color: #8C15E4;
+    background-color: #ffffff;
+}
+
+.fecha {
+    border: solid 1px #8C15E4 !important;
+    width: 280px;
+}
+
+.rango_precio {
+    border: solid 1px #8C15E4 !important;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 280px;
+    cursor: pointer;
+}
+
+.rango_precio p {
+    color: hsl(0, 0%, 50%);
+    position: relative;
+    top: 8px;
+
+}
+
+.sub_menu_rango {
+    position: absolute;
+    border: solid 1px #8C15E4 !important;
+    right: 413px;
+    bottom: -95px;
+    height: 90px;
+    padding: 10px 20px;
+    width: 280px;
+    z-index: 1;
+}
+
+.sub_menu_persona {
+    position: absolute;
+    border: solid 1px #8C15E4 !important;
+    right: 134px;
+    bottom: -95px;
+    height: 90px;
+    padding: 10px 20px;
+    width: 280px;
+    z-index: 1;
+}
+
+.content_range {
+    display: flex;
+    justify-content: space-between;
+}
+
+.adulto {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.ninos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.calculo {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.mas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border: solid 1px #8C15E4;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+    color: #8C15E4;
+    transition: 0.5s;
+}
+.mas:hover{
+    transition: 0.5s;
+    background-color: #8c15e4;
+    color: #FFFFFF;
+}
+
+.neg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border: solid 1px #8C15E4;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+    color: #8C15E4;
+    transition: 0.5s;
+}
+.neg:hover{
+    transition: 0.5s;
+    background-color: #8c15e4;
+    color: #FFFFFF;
+}
+.ico_use {
+    color: hsla(0, 0%, 50%, 0.6);
+    position: relative;
+    right: 10px;
+    top: 1px;
+}
+
+.input_general {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input_group {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 100%;
+}
+
+.input_group select option{
+    color: #8c15e4;
+    font-weight: 500;
+    border: 1px solid #100146;
+}
+
+
+@media (max-width: 1213px) {
+    .rango_precio {
+        width: 200px;
+    }
+
+    .sub_menu_rango {
+        right: 300px;
+    }
+
+    .sub_menu_persona {
+        right: 90px;
+    }
+
+    .input_group {
+        display: grid;
+        grid-template-columns: 1fr 1fr
+    }
+
+    .rango_precio {
+        height: 68px;
+        width: 100%;
+    }
+
+    .tipo_viaje {
+        background-color: white;
+        width: 100%;
+    }
+
+    .fecha {
+        width: 100%;
+        border-radius: 0;
+    }
+
+    .btn_buscar {
+        height: 136px;
+    }
+}
+
+@media (max-width: 641px) {
+    .general{
+        padding: 0 40px;
+        bottom: 70px;
+        flex-direction: column;
+    }
+    .input_group {
+        grid-template-columns: 1fr;
+
+    }
+    .fecha{
+        height: 68px;
+    }
+    .rango_precio{
+        width: 100%;
+    }
+    .input_general{
+        flex-direction: column;
+    }
+    .btn_buscar{
+        height: 68px;
+        width: 100%;
+    }
+}

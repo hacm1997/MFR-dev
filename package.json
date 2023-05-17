@@ -1,0 +1,52 @@
+{
+  "name": "inmobiliariamfr",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-google-maps/api": "^2.12.2",
+    "@react-oauth/google": "^0.7.1",
+    "@types/cron": "^2.0.1",
+    "@types/gapi": "^0.0.44",
+    "@types/react-gtm-module": "^2.0.1",
+    "antd": "^5.0.7",
+    "axios": "^1.2.0",
+    "bootstrap": "^5.2.0",
+    "boxicons": "^2.1.4",
+    "cron": "^2.3.0",
+    "dayjs": "^1.11.7",
+    "moment": "^2.29.4",
+    "next": "12.2.4",
+    "next-translate": "^2.0.5",
+    "next-translate-plugin": "^2.0.5",
+    "react": "18.2.0",
+    "react-big-calendar": "^1.5.2",
+    "react-bootstrap": "^2.5.0",
+    "react-confirm-alert": "^3.0.6",
+    "react-cookie": "^4.1.1",
+    "react-dom": "18.2.0",
+    "react-epayco": "^0.1.5",
+    "react-ga4": "^2.1.0",
+    "react-gtm-module": "^2.0.11",
+    "react-paginate": "^8.1.4",
+    "react-range": "^1.8.14",
+    "react-router": "^6.4.5",
+    "react-select": "^5.4.0",
+    "sweetalert2": "^11.7.3",
+    "swiper": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "18.6.5",
+    "@types/react": "18.0.17",
+    "@types/react-big-calendar": "^0.38.2",
+    "@types/react-dom": "18.0.6",
+    "eslint": "8.21.0",
+    "eslint-config-next": "12.2.4",
+    "typescript": "4.7.4"
+  }
+}

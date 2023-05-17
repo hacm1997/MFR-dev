@@ -1,0 +1,13 @@
+.title{
+    margin: 40px 0;
+}
+.title h2{
+    font-size: 60px;
+    font-weight: 400;
+    color: #100146;
+    margin-bottom: 20px;
+}
+.title h2 span{
+    font-weight: bold;
+
+}

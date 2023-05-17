@@ -1,0 +1,147 @@
+.title {
+    position: relative;
+    bottom: 70px;
+    right: 20px;
+}
+.title h1 {
+    color: #100146;
+    font-size: 24px;
+}
+
+.general_1 {
+    display: flex;
+    justify-content: center;
+    margin: 120px 0;
+}
+
+.verApartamentos {
+    order: 2;
+    flex: 0 80%;
+}
+
+.general_card {
+    padding-right: 20px;
+    position: relative;
+    margin-top: -40px;
+    order: 2;
+    flex: 0 80%;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(300px, 310px));
+    gap: 120px;
+}
+
+.filtro {
+    order: 1;
+    flex: 0 20%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.pagination {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+
+}
+
+.tramado_derecha img {
+    transform: rotate(180deg);
+}
+
+.spinner{
+    position: absolute;
+    left: 40%;
+    top: 150px;
+}
+
+@media (max-width: 1619px) {
+    .general_card {
+        gap: 60px;
+    }
+
+    .general_1 {
+        gap: 40px;
+    }
+}
+
+@media (max-width: 1409px) {
+    .general_card {
+        gap: 40px;
+    }
+
+    .general_1 {
+        gap: 40px;
+    }
+}
+
+@media (max-width: 1350px) {
+    .general_card {
+        grid-template-columns: repeat(2, minmax(300px, 310px));
+        gap: 100px;
+    }
+}
+
+@media (max-width: 1107px) {
+    .general_card {
+        gap: 60px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .general_card {
+        justify-content: center;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 310px));
+        gap: 60px;
+    }
+
+    .general_1 {
+        flex-direction: column;
+        margin: 0;
+    }
+
+    .filtro_movil {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+        width: 100%;
+        height: 100px;
+    }
+
+    .movil_camas {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 40px;
+        width: 200px;
+    }
+    .movil_camas h3{
+        font-size: 17px;
+    }
+
+    .movil_banos {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 40px;
+        width: 200px;
+    }
+    .movil_banos h3{
+        font-size: 17px;
+    }
+
+    .title {
+        text-align: center;
+    }
+
+    .title {
+        position: relative;
+        bottom: 0;
+        right: 0;
+    }
+    .general_card {
+        margin-top: 40px;
+        margin-bottom: 80px;
+    }
+}

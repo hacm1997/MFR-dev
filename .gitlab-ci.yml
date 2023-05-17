@@ -1,0 +1,44 @@
+image: amaysim/serverless:2.28.0
+
+stages:
+  - build
+
+build:
+  stage: build
+  script:
+    - npm install
+    - npm run build
+  except:
+    - main
+
+build-deploy:
+  stage: build
+  rules:
+    - if: $CI_COMMIT_REF_NAME =~ /main/
+      changes:
+        - .serverless/*
+      when: never
+    - if: $CI_COMMIT_REF_NAME =~ /main/
+      when: always
+  script:
+    - apk update
+    - apk add openssh-client
+    - eval $(ssh-agent -s)
+    - echo "$SSH_DEPLOY_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+    - mkdir -p ~/.ssh && touch ~/.ssh/known_hosts
+    - ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
+    - git remote show origin
+    - git remote set-url --push origin git@gitlab.com:$CI_PROJECT_PATH
+    - git remote show origin
+    - npm install
+    - npm run build
+    - mkdir -p ~/.aws
+    - echo "[default]" > ~/.aws/credentials
+    - echo "aws_access_key_id=$AWS_ACCESS_KEY_ID" >> ~/.aws/credentials
+    - echo "aws_secret_access_key=$AWS_SECRET_ACCESS_KEY" >> ~/.aws/credentials
+    - npx serverless
+    - git config --global user.email "marco.dubbeld@beamar.co"
+    - git config --global user.name "Gitlab Runner"
+    - git add .serverless
+    - git commit -m "Pushing serverless after main build"
+    - git push -v --follow-tags origin HEAD:$CI_COMMIT_REF_NAME

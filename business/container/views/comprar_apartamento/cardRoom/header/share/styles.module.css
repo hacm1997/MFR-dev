@@ -1,0 +1,23 @@
+.share {
+    font-size: 16px;
+    color: #8C15E4;
+    display: flex;
+    gap: 5px;
+}
+
+
+@media (max-width: 880px) {
+    .share {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 700px) {
+
+    .share {
+        font-size: 14px;
+
+    }
+}
+
+

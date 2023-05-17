@@ -1,0 +1,161 @@
+.content{
+    margin-top: 80px;
+    padding-bottom: 200px;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+.title p{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.table{
+    display: flex;
+    justify-content: center;
+
+}
+.content table{
+    border: 1px solid;
+    width: 900px;
+}
+.table thead{
+    text-align: center;
+}
+.table tbody{
+    text-align: center;
+}
+
+.btn_epayco{
+    position: absolute !important;
+    margin-top: 50px !important;
+}
+
+/* CONFIRMATION PAGE */
+.containerConfirm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contentConfirm{
+    padding: 20px;
+    border: 3px solid #0B0C44;
+}
+
+.detailsConfirm{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.the_table{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.the_table table{
+    width: 1200px;
+}
+
+.title_confirmation{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.title_confirmation p{
+    font-size: 38px;
+}
+
+.btn_confirmation{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.btn_confirmation button{
+    font-weight: bold;
+    width: 200px;
+    height: 40px;
+    background-color: #FFFFFF;
+    color: #0B0C44;
+    border: 3px solid #8C15E4;
+}
+.btn_confirmation button:hover{
+    background-color: #8C15E4;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.btn_confirmation2{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 80px;
+}
+.btn_confirmation2 button{
+    font-weight: bold;
+    width: 200px;
+    height: 40px;
+    background-color: #FFFFFF;
+    color: #0B0C44;
+    border: 3px solid #8C15E4;
+}
+.btn_confirmation2 button:hover{
+    background-color: #8C15E4;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.aling_btn{
+    display: flex;
+    justify-content: center;
+}
+
+
+.float{
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:270px;
+    right:70px;
+    background-color:#0B0C44;
+    color:#FFF;
+    border-radius:50px;
+    border: 0.5px solid #FFFFFF;
+    text-align:center;
+    font-size:30px;
+    box-shadow: 4px 4px 6px #0B0C44;
+    z-index:200;
+    animation: shadow 1s infinite;
+    transition: transform .2s;
+}
+
+@keyframes shadow {
+    from {
+        right: 70px;
+        box-shadow: 0px 4px 35px 5px #8C15E4;
+    }
+    to {
+        right: 60px;
+        box-shadow: 0px 4px 35px 5px #0B0C44;
+    }
+}
+
+.float:hover {
+    text-decoration: none;
+    color: #0B0C44;
+    background-color:#fff;
+    border: 0.5px solid #0B0C44;
+    transform: translateY(-10px) translateX(-10px);
+    animation: none;
+}
+
+.float i{
+    padding-top: 10px;
+    color: #FFFFFF;
+    font-size: 38px;
+}
+.float i:hover{
+    color: #0B0C44;
+}

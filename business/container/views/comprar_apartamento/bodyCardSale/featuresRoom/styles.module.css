@@ -1,0 +1,38 @@
+.caracteristicas {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.caracteristicas p {
+    display: flex;
+    gap: 10px;
+}
+
+.content_general h3 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.content_general h3 {
+    font-size: 17px;
+    font-weight: bold;
+    color: #100146;
+    margin-bottom: 20px;
+}
+
+.content_general h3 i {
+    font-size: 22px;
+    color: #8C15E4;
+}
+
+@media (max-width: 500px) {
+    .caracteristicas p {
+        font-size: 12px;
+    }
+
+    .content_general h3 {
+        font-size: 14px;
+    }
+}

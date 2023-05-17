@@ -1,0 +1,24 @@
+.content_2 .container_title {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 40px;
+}
+
+.content_2 .container_title h2 {
+
+    font-size: 24px;
+    color: #100146;
+    font-weight: bold;
+}
+
+.content_2 .container_title p {
+    font-size: 17px;
+    color: #100146;
+    gap: 5px;
+    display: flex;
+}
+
+.content_2 .container_title span {
+    color: #8C15E4;
+}

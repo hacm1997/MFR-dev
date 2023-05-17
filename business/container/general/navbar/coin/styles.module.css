@@ -1,0 +1,41 @@
+
+.moneda_nav{
+    width: 320px;
+    display: flex;
+    justify-content: flex-end;
+}
+.btn_nav {
+    color: #000000 !important;
+}
+
+.btn_nav:active {
+    color: #fafafa;
+}
+.btn_nav:hover {
+    color: #fafafa;
+}
+
+.currency{
+    margin-left: -50px;
+    height: 30px;
+    border: 1px solid #8C15E4;
+    background-color: transparent;
+    color: #FFFFFF;
+}
+.currency option{
+    color: #8C15E4;
+    font-weight: 700;
+}
+
+@media (max-width: 450px) {
+    .currency{
+        margin-left: -100px;
+    }
+    .moneda_nav{
+        display: block;
+        position: absolute;
+        left: 320px;
+        top: 10px;
+        width: 0;
+    }
+}

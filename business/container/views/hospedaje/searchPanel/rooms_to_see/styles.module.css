@@ -1,0 +1,51 @@
+.card{
+    width: 310px;
+    height: 470px;
+    background-color: #F9F9F9;
+    box-shadow: 0 0 20px 2px rgb(0 0 0 / 10%);
+    border: none;
+}
+
+.card .content{
+    padding: 20px;
+}
+.card h2{
+    font-size: 17px;
+    font-weight: bold;
+    color: #100146;
+}
+
+.card h3{
+    font-size: 17px;
+    color: #E460FF;
+}
+.card p {
+    font-size: 17px;
+    margin-bottom: 0;
+}
+
+.card h4{
+    font-size: 17px;
+    color: #100146;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.card h4 span{
+    font-size: 17px;
+    color: #100146;
+    font-weight: 400;
+}
+
+.home_image{
+    cursor: pointer;
+}
+
+.content .title{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.content .title .icon{
+    color: #E460FF !important;
+}

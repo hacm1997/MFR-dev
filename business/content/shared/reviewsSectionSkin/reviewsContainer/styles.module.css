@@ -1,0 +1,9 @@
+.testimonio_general {
+    width: 650px;
+}
+
+@media (max-width: 1300px) {
+    .testimonio_general {
+        width: 310px;
+    }
+}

@@ -1,0 +1,19 @@
+.section {
+    background-color: #8C15E4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.content_principal{
+    display: flex;
+    gap: 60px;
+    align-items: center;
+}
+
+@media (max-width: 767px) {
+    .content_principal{
+        flex-direction: column;
+    }
+}

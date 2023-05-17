@@ -1,0 +1,33 @@
+{
+  "page": {
+    "title": "Administration"
+  },
+  "pageTitle": "Administration",
+  "generalButton": "Contact",
+  "section1": {
+      "title": "Relax, we manage your apartment"
+  },
+  "section2": {
+    "titlep1": "More than",
+    "titlep2": "15 years of experience",
+    "titlep3": "that guarantee us"
+  },
+  "opinion": {
+    "title": "Your opinion",
+    "title2": "says it all"
+  },
+  "form": {
+    "row1": {
+      "titlep1": "Let us take care of everything,",
+      "titlep2": "from 250.000 COP"
+    },
+    "row2": {
+      "title": "What are you waiting for to join?",
+      "content": "Send us your details and we will contact you",
+      "name": "Full name",
+      "email": "E-mail",
+      "cel": "Cell phone number",
+      "button": "Contact"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "defaultLocale": "es",
+  "locales": ["es", "en"],
+  "pages": {
+    "*": ["comments", "common", "home", "details", "payment", "confirmation","administration","buy","notifications"]
+  }
+}

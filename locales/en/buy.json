@@ -1,0 +1,37 @@
+{
+  "pageTitle": "Buy apartment",
+  "title": {
+    "pt1": "Your new",
+    "pt2": "apartment",
+    "pt3": "awaits you"
+  },
+  "subtitle": "Available apartments",
+  "filter": {
+    "type_text": "Trip type",
+    "type1": "Job",
+    "type2": "Vacation",
+    "adults": "Adults",
+    "kids": "Kids",
+    "button": "Search"
+  },
+  "filter2": {
+    "title": "Filter",
+    "price": "By price",
+    "description": "Price per night",
+    "beds": "Beds",
+    "bedrooms": "Bedrooms"
+  },
+  "aptos": {
+    "max": "Maximum",
+    "min": "Mínimum",
+    "people": "People",
+    "adults": "Adults",
+    "kids": "Kids",
+    "bedroom": "Bedroom",
+    "sofa_bed": "Sofa bed",
+    "double_bed": "Double_bed",
+    "bathrooms": "Bathrooms",
+    "night": "Night",
+    "button": "Contact"
+  }
+}

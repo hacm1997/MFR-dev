@@ -1,0 +1,36 @@
+{
+  "cancel": "Click to cancel reservation",
+  "title": {
+    "pt1": "Find",
+    "pt2": "the",
+    "pt3": "best",
+    "pt4": "place",
+    "pt5": "for you"
+  },
+  "subtitle": "Available apartments",
+  "filter": {
+    "type_text": "Trip type",
+    "type1": "Job",
+    "type2": "Vacation",
+    "adults": "Adults",
+    "kids": "Kids",
+    "button": "Search"
+  },
+  "filter2": {
+    "title": "Filter",
+    "description": "Price per night",
+    "beds": "Beds",
+    "bedrooms": "Bedrooms"
+  },
+  "aptos": {
+    "max": "Maximum",
+    "min": "Minimum",
+    "people": "People",
+    "adults": "Adults",
+    "kids": "Kids",
+    "bedroom": "Bedrooms",
+    "double_bed": "Double bed",
+    "bathrooms": "Bathrooms",
+    "night": "Night"
+  }
+}

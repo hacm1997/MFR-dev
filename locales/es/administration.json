@@ -1,0 +1,32 @@
+{
+  "page": {
+    "title": "Administración"
+  },
+  "generalButton": "Contactar",
+  "section1": {
+    "title": "Tranquilízate, nosotros administramos tu apartamento"
+  },
+  "section2": {
+    "titlep1": "Más de",
+    "titlep2": "15 años de experiencia",
+    "titlep3": "que nos avalan"
+  },
+  "opinion": {
+    "title": "Su opinión",
+    "title2":"lo dice todo"
+  },
+  "form": {
+    "row1": {
+      "titlep1": "Déjanos encargarnos de todo,",
+      "titlep2": "desde 250.000 COP"
+    },
+    "row2": {
+      "title": "¿Qué esperas para unirte?",
+      "content": "Déjanos tus datos y nos pondremos en contacto contigo",
+      "name": "Nombre completo",
+      "email": "Correo electronico",
+      "cel": "Télefono",
+      "button": "Contactar"
+    }
+  }
+}

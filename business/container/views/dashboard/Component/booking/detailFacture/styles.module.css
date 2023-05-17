@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content{
+    padding: 20px;
+    border: 3px solid #0B0C44;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    color: #0B0C44;
+}
+.title h3{
+    font-weight: 800;
+}
+
+.details{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.btn_close{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+.btn_close button{
+    width: 200px;
+    height: 40px;
+    color: #0B0C44;
+    font-size: 18px;
+    font-weight: 500;
+    border: 3px solid #0B0C44;
+    transition: 0.8s;
+}
+.btn_close button:hover{
+    background-color: #0B0C44;
+    color: #FFFFFF;
+    transition: 0.5s;
+}

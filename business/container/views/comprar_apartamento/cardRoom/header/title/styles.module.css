@@ -1,0 +1,74 @@
+.title {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.title h1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: bold;
+    color: #100146;
+}
+
+
+@media (max-width: 1000px) {
+    .title{
+        gap: 10px;
+    }
+}
+@media (max-width: 880px) {
+ .title h1{
+        gap: 5px;
+        font-size: 35px;
+    }
+
+}
+@media (max-width: 767px) {
+    .title{
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+}
+@media (max-width: 700px) {
+.title h1{
+        gap: 10px;
+        font-size: 34px;
+    }
+}
+
+@media (max-width: 636px) {
+    .title h1{
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 581px) {
+    .title h1 {
+        gap: 10px;
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 549px) {
+   .title h1{
+        gap: 10px;
+        font-size: 26px;
+        width: 183px;
+    }
+}
+
+@media (max-width: 500px) {
+    .title h1{
+        gap: 10px;
+        font-size: 24px;
+    }
+    .title{
+        gap: 0;
+    }
+}
+
+
+

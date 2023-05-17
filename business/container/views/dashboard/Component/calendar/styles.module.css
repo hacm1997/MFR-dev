@@ -1,0 +1,9 @@
+.content{
+    display: grid;
+    grid-template-columns: 15% 85%;
+}
+.block_date{
+    background-color: #f1a1a1;
+    color: #ffffff;
+    cursor: not-allowed;
+}

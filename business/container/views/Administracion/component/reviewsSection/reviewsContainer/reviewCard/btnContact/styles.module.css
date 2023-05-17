@@ -1,0 +1,15 @@
+.boton{
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.boton a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 312px;
+    height: 52px;
+    background-color: #8c15e4;
+    text-decoration: none;
+    color: #fafafa !important;
+
+}

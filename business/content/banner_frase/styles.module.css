@@ -1,0 +1,22 @@
+.general {
+    padding: 111px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F4F4F4;
+}
+
+.general h1{
+    color: #100146;
+    font-weight: 500;
+}
+.general h1 span{
+    color: #E460FF;
+}
+
+@media (max-width: 450px) {
+    .general h1{
+        text-align: center;
+        padding: 10px;
+    }
+}

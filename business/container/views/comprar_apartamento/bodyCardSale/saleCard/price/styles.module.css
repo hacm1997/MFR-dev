@@ -1,0 +1,40 @@
+.precio {
+    text-align: center;
+    font-size: 27px;
+    font-weight: bold;
+    max-width: 400px;
+    color: #8C15E4;
+    margin: 0;
+}
+
+.condition {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    color: #100146;
+    margin-bottom: 20px;
+}
+
+.valor {
+    text-align: center;
+    font-size: 27px;
+    font-weight: bold;
+    max-width: 400px;
+    color: #100146;
+    margin: 0;
+}
+
+
+@media (max-width: 500px) {
+    .valor {
+        font-size: 20px;
+    }
+
+    .precio {
+        font-size: 20px;
+    }
+
+    .condition {
+        font-size: 12px;
+    }
+}

@@ -1,0 +1,4 @@
+inmobiliariamfr:
+  component: "@sls-next/serverless-component@latest"
+  inputs:
+    domain: [ "inmobiliariamfr.com" ]

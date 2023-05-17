@@ -1,0 +1,40 @@
+{
+  "booked": {
+    "from": "Reservación apartamento",
+    "subject": "Reserva de apartamento",
+    "title": "Datos de la reserva",
+    "info": "Información general",
+    "code_booking": "Código de la reserva",
+    "ref": "Referencia",
+    "date": "Fecha de transacción",
+    "apto": "Apartamento",
+    "date_start": "Fecha de incio",
+    "date_end": "Fecha de finalización",
+    "total": "Total pagado",
+    "method": "Método de pago",
+    "status": "Estado del pago"
+  },
+  "cancel": {
+    "title": "Reservation",
+    "title2": "cancellation request",
+    "form": {
+      "code_booking": "Booking code",
+      "date": "Reservation start date",
+      "dni": "Identification card or number",
+      "full_name": "Full name",
+      "email": "E-mail",
+      "phone": "Cellphone number",
+      "button": "Send"
+    },
+    "messages": {
+      "success": {
+        "title": "Request received",
+        "text": "Soon we will send a response to your email, please be aware of your email"
+      },
+      "error": {
+        "title": "Error",
+        "text": "Failed to send, please try again later"
+      }
+    }
+  }
+}

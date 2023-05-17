@@ -1,0 +1,28 @@
+.resources_content{
+    height: 600px;
+    overflow-y: auto;
+}
+.list_resources{
+    list-style: none;
+    padding-top: 5px;
+}
+.list_resources li{
+    padding: 5px;
+    background-color: #8C15E4;
+    color: #FFFFFF;
+    font-weight: 500;
+    width: 100%;
+    text-align: center;
+    margin-left: -30px;
+    cursor: pointer;
+}
+
+.active li{
+    padding: 5px;
+    background-color: #100146;
+    color: #FFFFFF;
+    font-weight: 500;
+    width: 100%;
+    text-align: center;
+    margin-left: -30px;
+}

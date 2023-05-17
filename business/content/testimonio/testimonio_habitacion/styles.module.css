@@ -1,0 +1,31 @@
+.card {
+    width: 310px;
+    height: 100%;
+    background-color: #F9F9F9;
+}
+
+.card .content {
+    padding: 20px;
+}
+
+.card .content h2 {
+    font-size: 17px;
+    font-weight: bold;
+    color: #100146;
+}
+
+.card .content p {
+    font-size: 17px;
+    font-weight: 400;
+    color: #100146;
+}
+
+.card .content i {
+    color: #E460FF;
+    font-size: 18px;
+}
+
+.card .content .star {
+    display: flex;
+    gap: 5px;
+}
